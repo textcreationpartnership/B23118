@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to be read in the men and womens meetings G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23118</idno>
+            <idno type="STC">Wing F1809</idno>
+            <idno type="STC">ESTC R39539</idno>
+            <idno type="EEBO-CITATION">18426876</idno>
+            <idno type="OCLC">ocm 18426876</idno>
+            <idno type="VID">154419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154419)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to be read in the men and womens meetings G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"London, the 13th of the 9th Moneth, 1677."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154419:1" rendition="simple:additions"/>
+            <head>AN EPISTLE TO Be Read in the Men and Womens Meetings.</head>
+            <opener>
+               <dateline>London, <date>the 13th of the 9th Moneth, 1677.</date>
+               </dateline> 
+               <signed>G. F.</signed>
+               <lb/>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>MY Love in the Lord to you all, in whom I have laboured, and my deſires are, the God of all Peace, and the Son of Peace, may fill all your Hearts with his Love and Peace, and Wiſdom and Knowledge in all things, to do his heavenly glo<g ref="char:EOLhyphen"/>rious Will, in that you will know his Sons Doctrine, and as you know it, obey it. And my deſires are in the Lord, that you may all walk worthy of your Vo<g ref="char:EOLhyphen"/>cation, and of him that has called you to Holineſs and Righteouſneſs, and to Peace; ſo that his Peace
+<pb n="2" facs="tcp:154419:2"/>may flow as a River, and Righteouſneſs run down as a Stream to the glading of the City of God, the Walls of which is his Power and Salvation, and Light, and Life.</p>
+            <p>And now, my Friends, firſt, all your Meetings keep in the Name of Jeſus, in whom you have all Sal<g ref="char:EOLhyphen"/>vation, which is above every Name under the whole Heaven in whom there is no Salvation.</p>
+            <p>And alſo, all your Men and Womens Meetings every where, keep in the power of the Lord Jeſus Chriſt his Goſpel, by which he hath brought Life &amp; Immortality to Light in you that you may ſee over him that hath darkned you, and before he was, which Power will preſerve you in Life and Immortality; ſo that you may now all labour in the Goſpel, the power of God, in his glorious and comfortable Goſpel, and joyful ſerving the Lord in his Goſpel of Peace, through which Goſpel you have Peace with God: So that in this Goſpel, the power of God, there can come nothing between you and God; here is your everlaſting Order, not of man nor by man. So that all the faithful Men and Women, may in the Lords power be ſtirred up in their Inheritances of the ſame Goſpel, and to labour in it, helps meet in the Reſto<g ref="char:EOLhyphen"/>ration, as Man and Woman was before the Fall, in the Garden of God; all are to work in his Righteouſ<g ref="char:EOLhyphen"/>eſs, and in his Image, in his Power, in his Garden to ſubdue the Earth, and keep the Dominion in his Power, in the Reſtoration, as Man and Woman did in the Image of God before the Fall; whoſoever would hinder you in this work, it is the ſame Serpents Spi<g ref="char:EOLhyphen"/>rit
+<pb n="3" facs="tcp:154419:2" rendition="simple:additions"/>that led <hi>Adam</hi> and <hi>Eve</hi> into the Fall from the work of God, which now would keep you in the Fall to do his work and command, and not the Lords; and therefore over that, keep your Dominion, Authori<g ref="char:EOLhyphen"/>ty and Inheritance in the Reſtoration, in the power of God, in which every one of you muſt give an ac<g ref="char:EOLhyphen"/>count to God; and therefore be diligent in the Lords Power, Light, Life and Spirit, in which you all ſee your Services to God, ſo that he may be glorified among you all, and in you all, and over you all his Glory may ſhine. And you all men and women, in your Men and Womens Meetings be diligent, la<g ref="char:EOLhyphen"/>bouring in the Light, Life, and the Power of God, the Goſpel in the Garden and Church of God; ſo that Righteouſneſs and Peace may flow down a<g ref="char:EOLhyphen"/>mongſt you, Truth and Godlineſs, Purity, Vertue, and Holineſs, over all that is contrary; and that the weight and care of Gods Glory, and his Honour, and his pure holy Name, and his Truth, Religion and Worſhip you may all ſtand up for, againſt that which would in any wiſe cauſe it to be evil ſpoken of by ill Walkers and Talkers, and let all things you do be done in Love, and condeſcend one to another in the Power of the Lord, and in his Truth, in it have eſteem one of another, and let all things be done among you without any Strife; for its love that edifies the Body, and knits it together, and unites it to Chriſt the hea<g ref="char:EOLhyphen"/>venly and holy Head.</p>
+            <p>And now you Women, though you have been under the Reproach, becauſe <hi>Eve</hi> was firſt in Tranſ<g ref="char:EOLhyphen"/>greſſion; but the Promiſe was, <hi>The Seed of the Wo<g ref="char:EOLhyphen"/>man
+<pb n="4" facs="tcp:154419:3"/>ſhould bruiſe the Serpents Head,</hi> that led her firſt in Tranſgreſſion, and the Man alſo; and this Promiſe of God is fulfilled, a Virgin ſhould have a Child, and they ſhould call his Name <hi>Emanuel,</hi> God with us again: For Man and Woman was drove from God out of Paradiſe, and the Serpent became their Head, and God of the World; but Chriſt is come accord<g ref="char:EOLhyphen"/>ing to the Promiſe of God and his Prophets, who was born of a Virgin, and therefore ſaith <hi>Mary, My Spirit hath rejoyced in God my Saviour: my Soul doth magnify the Lord, for he hath regard to the low eſtate of his Hand-maid; for behild, from henceforth all Genera<g ref="char:EOLhyphen"/>tions ſhall call me Bleſſed:</hi> Now here comes the Re<g ref="char:EOLhyphen"/>proach to be taken off from women, who were firſt in Tranſgreſſion, and which are not ſuffered to ſpeak in the Church; but here <hi>Mary</hi> did ſpeak and believe that which was ſpoken to her; and alſo the Reproach and Tranſgreſſion taken off of men, that believes in the Seed Chriſt Jeſus, who bruiſes the Head of the Serpent that has brought man and women into his Image, and his Works, which Chriſt deſtroyes him and his Works, and renews man and woman up into the Image of God, as they were in before they fell, and into the Power to have Dominion, to work in his Garden, to ſubdue the Earth, <hi>&amp;c.</hi> So that all are now to labour in the Garden of God, that are in the Power and Image of God brought by Chriſt Jeſus that bruiſes the Serpents Head, that has been head in them all. So that Chriſt Jeſus may be Head in all men and women, and every man and woman may act from him their holy Head, Life and Salvati<g ref="char:EOLhyphen"/>on,
+<pb n="5" facs="tcp:154419:3"/>and keep his heavenly Peace in his Church, and every living Member believing in the Light, which is the Life in Chriſt, and ſo grafted into him the Fountain of Life, and the Water of Life; and that they may feel the living Springs, and the Rivers ſpringing up in them to Eternal Life, which are the living Stones, the ſpiritual Houſhold, of which Chriſt is both Head, Rock, and Foundation. And Chriſt is called the green Tree, which green Tree never withers, in whom they are grafted by belief in the Light, which is the Life in him, from whom they all receive their heavenly living nouriſhment, through which every Graft is nouriſhed, then it comes to bud and bring forth Fruit to the praiſe of the Eternal God: Now every one of theſe living Belie<g ref="char:EOLhyphen"/>vers are Members of the living Church in God, which Chriſt is the Head of, and every Member in the Church hath an Office, and ſo every Member is ſerviceable in the Body in his Office, within the Light which is over Darkneſs, and was before it was, and within the Life over Death, and before it was, and in the power of God, which was before the power of the Serpent was; and ſo they are in this Light, Life, and Power to execute their Office, I ſay, within this divine Light, Life, Power and Spirit of God for Gods glory, in Truth, Purity, Vertue, Holineſs and Righteouſneſs they are to ſtand up for Gods glory, and the honour of his Son, and receive him who hath all power in Heaven and Earth given to him; and all that receives him, he gives them Power to be<g ref="char:EOLhyphen"/>come the Sons and Daughters of God; then in his
+<pb n="6" facs="tcp:154419:4"/>Power all are to act and walk, and ſerve God in their Generation, and in it to ſerve their Generation, yea, and in the new Creation, in Righteouſneſs and Holineſs, and ſtand up in his Power for his Glory, and in his Power, Righteouſneſs and Holineſs that Chriſt brings into them, and renews them in, and ſo into the Reſtoration that they may labour in the Church and Garden of God in his Power, to his Everlaſting Praiſe and Glory, <hi>Amen.</hi>
+            </p>
+            <p>And all Friends, ſtand faſt in the Liberty, wherewith Chriſt hath made you free, and in the liberty in the Faith, which Chriſt is the Author and Finiſher of, which Faith purifies your Hearts, and is the Victory, in which you have acceſs to God, the Myſtery of which is held in a pure Conſcience, in which Faith it hath its true liberty. And keep in the liber<g ref="char:EOLhyphen"/>ty of the Everlaſting glorious Goſpel of Peace, which is not of man, nor by man, but from Heaven, which Goſpel bringeth, and hath brought Life and Immortality to Light, and will preſerve you in Life and in Immortality, over him that hath darkned you; and in this Goſpel you have everlaſting Liberty and Peace, and in the Truth, which maketh you free from him that is out of the Truth; this free ſtate all are to keep in, and alſo in the holy
+<pb n="7" facs="tcp:154419:4"/>pure Spirit of God and Chriſt, that doth mor<g ref="char:EOLhyphen"/>tifie all that is to be Mortifyed and Circum<g ref="char:EOLhyphen"/>ciſed, and doth Baptiſe you into one Body; in this holy Spirit you are to walk, which lead<g ref="char:EOLhyphen"/>eth you into all Truth, in which is your Uni<g ref="char:EOLhyphen"/>ty and Fellowſhip, and giveth Liberty from that which hath grieved it, and quenched and vexed it; and ſo in the Liberty and Fellow<g ref="char:EOLhyphen"/>ſhip, and Unity of the holy pure peaceable Spirit, and in the Unity and Liberty of it you are all to dwell and walk, which is the bond of the Prince of Princes Peace, which the World cannot take away.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
